@@ -1,0 +1,66 @@
+main {
+  text-align: center;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  width: 100%;
+  padding: 2px;
+}
+
+h2 {
+  color: #fff;
+  font-weight: 700;
+}
+
+.numbers {
+  font-size: 16px;
+  font-weight: 700;
+  margin: 10px;
+  color: #fff;
+}
+
+#operators {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+#addNumbers,
+#subNumbers,
+#divNumbers,
+#multNumbers {
+  margin: 10px;
+  border: 2px solid #fff;
+  background-color: #fff;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+#addNumbers:hover,
+#subNumbers:hover,
+#divNumbers:hover,
+#multNumbers:hover {
+  margin: 10px;
+  border: 2px solid #fff;
+  background-color: #f8cf00;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+#resollution {
+  display: grid;
+  grid-template-columns: 1fr;
+}
+
+#result {
+  background-color: #fff;
+  text-align: center;
+  color: black;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.main {
+  background-color: blue;
+  text-align: center;
+  margin: 2px;
+  padding: 2px;
+}

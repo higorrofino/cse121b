@@ -1,0 +1,18 @@
+[
+  {
+    "Operator": "+",
+    "Description": "The total amount resulting from the addition of two or more numbers, amounts, or items."
+  },
+  {
+    "Operator": "-",
+    "Description": "The subtraction definition is taking away a number or amount from another number or amount."
+  },
+  {
+    "Operator": "*",
+    "Description": "Multiplication is the process of calculating the product of two or more numbers."
+  },
+  {
+    "Operator": "/",
+    "Description": "Division is a process of splitting a specific amount into equal parts."
+  }
+]
